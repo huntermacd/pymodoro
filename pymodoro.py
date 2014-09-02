@@ -1,4 +1,4 @@
-import Tkinter, tkMessageBox, ttk
+import Tkinter, tkMessageBox
 
 ticks = 60 * 25
 running = True
